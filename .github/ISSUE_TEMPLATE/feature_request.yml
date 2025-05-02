@@ -16,7 +16,6 @@ body:
       label: Description / Descrição
       placeholder: |
         Ex: Allow the user to mark plants as "favorites" and filter by category...
-      required: true
 
   - type: textarea
     id: additional-context
