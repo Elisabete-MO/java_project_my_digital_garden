@@ -1,6 +1,6 @@
 name: 💡 Feature request / Solicitação de funcionalidade
 description: Sugira uma nova ideia ou melhoria para o projeto
-title: "[Feature]: "
+title: "[Feature]: Add filtering options for plant categories"
 labels: ["enhancement"]
 
 body:
@@ -23,5 +23,5 @@ body:
     attributes:
       label: Additional context / Contexto adicional
       description: |
-        🇺🇸 Add any other context, screenshots or mockups  
-        🇧🇷 Inclua contexto extra, imagens ou mockups
+        🇺🇸 Add any other context, screenshots, mockups (e.g., wireframes or flow diagrams).  
+        🇧🇷 Inclua contexto extra, imagens ou mockups (ex.: wireframes ou diagramas de fluxo).
